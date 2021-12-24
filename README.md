@@ -1,6 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Aman Kumar and I am currently in my final year of engineering...
+A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications
 
 ## Languages and Tools
 

@@ -4,6 +4,7 @@
 A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 <p/>
 
+<br/>
 ## Languages and Tools
 
 <p align="center" >
@@ -21,8 +22,8 @@ A highly resourceful computer programmer and well-rounded IT professional with o
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
     <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> 
 </p>
- 
- 
+ <br/>
+ <br/>
    
  
 
@@ -31,7 +32,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman149&theme=dark&langs_count=3"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aman149&theme=dark&show_icons=true"/>
 </p>
-
+<br/>
 <p align="center">
    <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-black?style=for-the-badge"/>
 </p>

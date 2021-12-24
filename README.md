@@ -3,8 +3,8 @@
 <p align="center" >
 A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 <p/>
-
 <br/>
+
 ## Languages and Tools
 
 <p align="center" >

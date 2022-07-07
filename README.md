@@ -30,5 +30,5 @@
 </p>
 <br/>
 <p align="center">
-   <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-black?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best ! -black?style=for-the-badge"/>
 </p>

@@ -24,7 +24,8 @@
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge"/>
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/SVN-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white"/>
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)"/>
+  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   
   
 </p>

@@ -1,3 +1,11 @@
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
+</p>
+
+<!-- <p>
+<img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
+</p> -->
+
 # Hey, I'm Aman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center" >
   A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development   lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.

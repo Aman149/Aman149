@@ -6,13 +6,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
 </p> -->
 
-# Hey, I'm Aman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align="center"> Hello World, I'm Aman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 <p align="center" >
   A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development   lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 <p/>
 <br/>
 
-## Languages, Frameworks and Tools
+## ⚙️Languages, Frameworks and Tools
 <p align="center" >
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/C ++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-## Github Stats
+## 📊Github Stats
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman149&theme=dark&langs_count=4"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aman149&theme=dark&show_icons=true"/>
